@@ -1,0 +1,16 @@
+F:\CoffeeStats\bin\Debug\net5.0\CoffeeStats.exe
+F:\CoffeeStats\bin\Debug\net5.0\CoffeeStats.deps.json
+F:\CoffeeStats\bin\Debug\net5.0\CoffeeStats.runtimeconfig.json
+F:\CoffeeStats\bin\Debug\net5.0\CoffeeStats.runtimeconfig.dev.json
+F:\CoffeeStats\bin\Debug\net5.0\CoffeeStats.dll
+F:\CoffeeStats\bin\Debug\net5.0\ref\CoffeeStats.dll
+F:\CoffeeStats\bin\Debug\net5.0\CoffeeStats.pdb
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.csproj.AssemblyReference.cache
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.GeneratedMSBuildEditorConfig.editorconfig
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.AssemblyInfoInputs.cache
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.AssemblyInfo.cs
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.csproj.CoreCompileInputs.cache
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.dll
+F:\CoffeeStats\obj\Debug\net5.0\ref\CoffeeStats.dll
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.pdb
+F:\CoffeeStats\obj\Debug\net5.0\CoffeeStats.genruntimeconfig.cache
